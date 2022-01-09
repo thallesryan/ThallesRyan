@@ -1,7 +1,7 @@
 ### Hi there 👋
 <a href="https://github.com/ThallesRyan">
-    <img height="179em" src="https://github-readme-stats.vercel.app/api?username=ThallesRyan&amp;show_icons=true&amp;theme=chartreuse-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesRyan&amp;layout=compact&amp;langs_count=7&amp;theme=chartreuse-dark" style="max-width: 100%;">
+    <img height="178em" src="https://github-readme-stats.vercel.app/api?username=ThallesRyan&amp;show_icons=true&amp;theme=chartreuse-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesRyan&amp;layout=compact&amp;langs_count=7&amp;theme=chartreuse-dark" style="max-width: 100%;">
 </a>
 <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
